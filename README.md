@@ -1,22 +1,22 @@
-# Target Tasks
+# Target Tasks - project
 
-Este repositório contém a resolução de cinco desafios em C#, organizados de forma modular e executados a partir de um menu interativo. Cada desafio aborda um problema específico, com foco em lógica de programação e manipulação de dados.
+Este repositï¿½rio contï¿½m a resoluï¿½ï¿½o de cinco desafios em C#, organizados de forma modular e executados a partir de um menu interativo. Cada desafio aborda um problema especï¿½fico, com foco em lï¿½gica de programaï¿½ï¿½o e manipulaï¿½ï¿½o de dados.
 
-Descrição dos desafios:
+Descriï¿½ï¿½o dos desafios:
 
 1. [Soma Sequencial](https://github.com/gcmorais/target-tasks/blob/master/challenges/SumTask.cs):
-Calcula o valor acumulado de uma sequência de números até um índice pré-definido.
+Calcula o valor acumulado de uma sequï¿½ncia de nï¿½meros atï¿½ um ï¿½ndice prï¿½-definido.
 
-2. [Sequência de Fibonacci](https://github.com/gcmorais/target-tasks/blob/master/challenges/Fibonacci.cs):
-Verifica se um número informado pertence à sequência de Fibonacci.
+2. [Sequï¿½ncia de Fibonacci](https://github.com/gcmorais/target-tasks/blob/master/challenges/Fibonacci.cs):
+Verifica se um nï¿½mero informado pertence ï¿½ sequï¿½ncia de Fibonacci.
 
-3. [Análise de Faturamento Diário](https://github.com/gcmorais/target-tasks/blob/master/challenges/DailyRevenue.cs):
-Processa dados de faturamento para determinar o menor, maior valor e dias acima da média mensal.
+3. [Anï¿½lise de Faturamento Diï¿½rio](https://github.com/gcmorais/target-tasks/blob/master/challenges/DailyRevenue.cs):
+Processa dados de faturamento para determinar o menor, maior valor e dias acima da mï¿½dia mensal.
 
 4. [Percentual de Faturamento por Estado](https://github.com/gcmorais/target-tasks/blob/master/challenges/RevenueByState.cs):
-Calcula o percentual de contribuição de cada estado no faturamento total.
+Calcula o percentual de contribuiï¿½ï¿½o de cada estado no faturamento total.
 
-5. [Inversão de String](https://github.com/gcmorais/target-tasks/blob/master/challenges/ReverseString.cs):
-Reverte os caracteres de uma string sem utilizar funções prontas.
+5. [Inversï¿½o de String](https://github.com/gcmorais/target-tasks/blob/master/challenges/ReverseString.cs):
+Reverte os caracteres de uma string sem utilizar funï¿½ï¿½es prontas.
 
-O programa é interativo, permitindo executar cada desafio individualmente e decidir se deseja continuar ou sair após cada operação.
+O programa ï¿½ interativo, permitindo executar cada desafio individualmente e decidir se deseja continuar ou sair apï¿½s cada operaï¿½ï¿½o.
